@@ -14,7 +14,7 @@ Classification is categorizing objects into groups. There are different types of
 
 Class is a category for example Predicting animal class from an animal image is an example of multi-class classification, where each animal can belong to only one category.
 
-Scores from the last layer are passed through a SoftMax layer. The SoftMax layer converts the score into probability values. At last, data is classified into a corresponding class, that has the highest probability value (max P1). nnnn3
+Scores from the last layer are passed through a SoftMax layer. The SoftMax layer converts the score into probability values. At last, data is classified into a corresponding class, that has the highest probability value (max P1). 
 
 ![image](https://user-images.githubusercontent.com/75235167/164182647-a16dfa71-a51e-4280-8314-5df840369287.png)
 
@@ -32,11 +32,10 @@ Scores from the last layer are passed through a SoftMax layer. The SoftMax layer
 6.Save the file and execute the program
 
 ## Program:
-```
-Program to implement the multi class classifier.
-Developed by: N Sandhya charu
-RegisterNumber: 212220230041
-```
+
+### Program to implement the multi class classifier.
+### Developed by: N Sandhya charu
+### RegisterNumber: 212220230041
 ```python3
 from numpy import where
 from collections import Counter
