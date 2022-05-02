@@ -1,4 +1,4 @@
-### EX NO: 02
+### EX NO: 03
 ### DATE:
 # <p align="center">MULTI-CLASS-CLASSIFICATION</p>
 ## Aim:
