@@ -33,29 +33,6 @@ Scores from the last layer are passed through a SoftMax layer. The SoftMax layer
 
 6.Save the file and execute the program
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
 ## Program:
 ```python3
 Program to implement the multi class classifier.
@@ -78,32 +55,6 @@ for label, _ in counter.items():
 pyplot.legend()
 pyplot.show()
 ```
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 
 ## Output:
 
