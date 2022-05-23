@@ -33,12 +33,35 @@ Scores from the last layer are passed through a SoftMax layer. The SoftMax layer
 
 6.Save the file and execute the program
 
-## Program:
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-### Program to implement the multi class classifier.
-### Developed by: N Sandhya charu
-### RegisterNumber: 212220230041
+
+## Program:
 ```python3
+Program to implement the multi class classifier.
+Developed by: N Sandhya charu
+RegisterNumber: 212220230041
+
 from numpy import where
 from collections import Counter
 from sklearn.datasets import make_blobs
@@ -55,6 +78,32 @@ for label, _ in counter.items():
 pyplot.legend()
 pyplot.show()
 ```
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ## Output:
 
